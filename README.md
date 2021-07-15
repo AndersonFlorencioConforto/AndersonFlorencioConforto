@@ -1,6 +1,6 @@
  # Hi Guuuuuuys 👋
  
- ## Prazer Anderson, desenvolvedor Java Júnior em formação e desbravando o mundo da tecnologia ❤️.
+ ## Prazer Anderson, desenvolvedor Java Júnior e desbravando o mundo da tecnologia ❤️.
  
  
  ### My skills :computer:
@@ -10,6 +10,9 @@
  <a href="https://www.linkedin.com/in/anderson-florencio-conforto-b77577202/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+# Portfólio
+https://meuatelie.herokuapp.com/home
 
 <!--
 **AndersonFlorencioConforto/AndersonFlorencioConforto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
